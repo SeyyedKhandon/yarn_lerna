@@ -1,0 +1,25 @@
+{
+  "name": "yarn_lerna",
+  "version": "0.1.5",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeyyedKhandon/yarn_lerna.git"
+  },
+  "author": "SeyyedMahdi hassanpour",
+  "bugs": {
+    "url": "https://github.com/SeyyedKhandon/yarn_lerna/issues"
+  },
+  "homepage": "https://github.com/SeyyedKhandon/yarn_lerna#readme",
+  "dependencies": {
+    "@yarn_lerna/package1": "^0.1.4",
+    "@yarn_lerna/package2": "^0.1.5"
+  }
+}
