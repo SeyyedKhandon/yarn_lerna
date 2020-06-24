@@ -9,6 +9,15 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeyyedKhandon/yarn_lerna.git"
+  },
+  "author": "SeyyedMahdi hassanpour",
+  "bugs": {
+    "url": "https://github.com/SeyyedKhandon/yarn_lerna/issues"
+  },
+  "homepage": "https://github.com/SeyyedKhandon/yarn_lerna#readme",
   "dependencies": {
     "@yarn_lerna/package1": "^0.1.3"
   }
