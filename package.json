@@ -1,0 +1,16 @@
+{
+  "name": "package-publishing-using-lerna-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "jest": "^26.1.0",
+    "lerna": "^3.22.1",
+    "prettier": "2.0.5"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@yarn_lerna/package1",
+  "version": "0.1.2",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
