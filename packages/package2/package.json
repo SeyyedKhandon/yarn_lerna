@@ -1,6 +1,6 @@
 {
   "name": "@yarn_lerna/package2",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/SeyyedKhandon/yarn_lerna#readme",
   "dependencies": {
-    "@yarn_lerna/package1": "^0.1.3"
+    "@yarn_lerna/package1": "^0.1.4"
   }
 }
