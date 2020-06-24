@@ -1,6 +1,6 @@
 {
   "name": "@yarn_lerna/package2",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -10,6 +10,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@yarn_lerna/package1": "^0.1.2"
+    "@yarn_lerna/package1": "^0.1.3"
   }
 }
